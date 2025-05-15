@@ -1,6 +1,6 @@
 # Astro Site
 
-This is the `ai-gov-console` repo, part of the `astro-site` application which is part of the `ai.gov` monorepo.
+This is the `ai-gov-console` repo, part of the `astro-site` application which will be part of the `ai.gov` monorepo.
 
 ## 🚀 Project Structure
 
